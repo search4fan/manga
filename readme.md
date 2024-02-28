@@ -1,13 +1,5 @@
-
-	
-		
-# prices
-|kind|site|price|
-|---|---|---|
-|babyloveTwoFive|coles|>10|
-|babyloveFifty|coles|>24.5|
-|ultimate|coles|>0|
-
-	
-	
-		
+# weather
+<img src="Humidity.png" /><br>
+		<img src="Temperature.png" /><br>
+		<img src="Pressure.png" /><br>
+		<img src="Wind_speed.png" /><br>
